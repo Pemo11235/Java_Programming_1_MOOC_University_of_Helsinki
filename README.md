@@ -8,7 +8,7 @@ Those present in the repo are my solutions to the exercises I held **from 01/05/
 -------------------------------------------------------------------
 ## Course Contents
 
-### Part 1:
+### [Part 1](https://github.com/Pemo11235/Java_Programming_1_MOOC_University_of_Helsinki/tree/master/Part 1):
  1. Getting started with programming
  2. Printing
  3. Reading input
@@ -17,19 +17,19 @@ Those present in the repo are my solutions to the exercises I held **from 01/05/
  6. Conditional statements and conditional operation
  7. Programming in our society
  
-#### Part 2:
+#### [Part 2](https://github.com/Pemo11235/Java_Programming_1_MOOC_University_of_Helsinki/tree/master/Part 2):
  1. Recurring problems and patterns to solve them
  2. Repeating functionality
  3. More loops
  4. Methods and dividing the program into smaller parts
  5. End questionnaire
-#### Part 3:
+#### [Part 3](https://github.com/Pemo11235/Java_Programming_1_MOOC_University_of_Helsinki/tree/master/Part 3):
  1. Discovering errors
  2. Lists
  3. Arrays
  4. Using strings
  5. Summary
-#### Part 4:
+#### [Part 4](https://github.com/Pemo11235/Java_Programming_1_MOOC_University_of_Helsinki/tree/master/Part 1):
  1. Introduction to object-oriented programming
  2. Objects in a list
  3. Files and reading data
