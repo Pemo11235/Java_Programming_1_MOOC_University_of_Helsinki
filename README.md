@@ -8,6 +8,16 @@ Those present in the repo are my solutions to the exercises I held **from 01/05/
 -------------------------------------------------------------------
 ## Course Contents ##
 
+
+- [Part 1](https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-1
+- [Part 2(https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-2
+- [Part 3(https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-3
+- [Part 4(https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-4
+- [Part 5(https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-5
+- [Part 6(https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-6
+- [Part 7(https://github.com/Pemo11235/Java_Programming_2_MOOC_University_of_Helsinki/blob/master/README.md#part-7
+
+-------------------------------------------------------------------
 #### Part 1: #
  1. Getting started with programming
       1. Quiz
