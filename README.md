@@ -8,7 +8,7 @@ Those present in the repo are my solutions to the exercises I held **from 01/05/
 -------------------------------------------------------------------
 ## Course Contents ##
 
-### Part 1:#
+### Part 1: #
  1. Getting started with programming
  2. Printing
  3. Reading input
